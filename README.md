@@ -4,6 +4,7 @@
 
 Código originalmente criado em CodePen.io, podendo ser acessado em: [https://codepen.io/yasmindematos/pen/poLaQGO](https://codepen.io/yasmindematos/pen/poLaQGO).
 
+<br>
 <div style="display: inline_block" align="center">
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -17,6 +18,8 @@ Código originalmente criado em CodePen.io, podendo ser acessado em: [https://co
 
 </div>
 
+
+<br>
 O Conversor de Moedas tem a função de mostrar o valor de uma moeda escolhida convertido em uma outra moeda.
 
 <hr>
