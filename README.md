@@ -17,7 +17,7 @@ Código originalmente criado em CodePen.io, podendo ser acessado em: [https://co
 
 </div>
 
-O Conversor de Moedas tem a função de modificar o valor de uma moeda escolhida para valor em outra moeda, mostrando o valor de uma moeda convertida em outra.
+O Conversor de Moedas tem a função de mostrar o valor de uma moeda escolhida convertido em uma outra moeda.
 
 <hr>
 
