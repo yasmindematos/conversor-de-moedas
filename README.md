@@ -1,4 +1,4 @@
-<h1 align="center"> Conversor de Moedas - Yasmin de Matos </h1>
+<h1 align="center"> 📝 Conversor de Moedas - Yasmin de Matos </h1>
 
 ![Conversor de Moedas](https://user-images.githubusercontent.com/98225965/193980442-e14441ff-ef3b-459f-9a19-eba839c59712.png)
 
